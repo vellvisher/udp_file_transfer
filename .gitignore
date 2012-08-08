@@ -1,5 +1,6 @@
 *.class
-
+bin/*
+testFiles/*
 # Package Files #
 *.jar
 *.war
